@@ -1,0 +1,211 @@
+Using pre-set license
+Built from '2020.3/release' branch; Version is '2020.3.15f2 (6cf78cb77498) revision 7141260'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home Single Language; OS build 19042.1110; Version 2009; 64bit' Language: 'en' Physical Memory: 12184 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+D:\Unity\Hub\Editor\2019.4.13f1\Editor\2020.3.15f2\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+E:/Unity3DBowling/3DBowling/3DBowling
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+54660
+Successfully changed project path to: E:/Unity3DBowling/3DBowling/3DBowling
+E:/Unity3DBowling/3DBowling/3DBowling
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 62.64 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.15f2 (6cf78cb77498)
+[Subsystems] Discovering subsystems at path D:/Unity/Hub/Editor/2019.4.13f1/Editor/2020.3.15f2/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path E:/Unity3DBowling/3DBowling/3DBowling/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 520 (ID=0x1916)
+    Vendor:   
+    VRAM:     6092 MB
+    Driver:   27.20.100.8681
+Initialize mono
+Mono path[0] = 'D:/Unity/Hub/Editor/2019.4.13f1/Editor/2020.3.15f2/Editor/Data/Managed'
+Mono path[1] = 'D:/Unity/Hub/Editor/2019.4.13f1/Editor/2020.3.15f2/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'D:/Unity/Hub/Editor/2019.4.13f1/Editor/2020.3.15f2/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56920
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Unity/Hub/Editor/2019.4.13f1/Editor/2020.3.15f2/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002693 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 55.74 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.515 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2516ms)
+		BeginReloadAssembly (101ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (2ms)
+		EndReloadAssembly (1125ms)
+			LoadAssemblies (99ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (517ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (84ms)
+			SetupLoadedEditorAssemblies (352ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (56ms)
+				BeforeProcessingInitializeOnLoad (29ms)
+				ProcessInitializeOnLoadAttributes (187ms)
+				ProcessInitializeOnLoadMethodAttributes (74ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.009032 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.47 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.894 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2895ms)
+		BeginReloadAssembly (390ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (11ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (43ms)
+		EndReloadAssembly (2349ms)
+			LoadAssemblies (219ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (842ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (112ms)
+			SetupLoadedEditorAssemblies (948ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (12ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (166ms)
+				ProcessInitializeOnLoadAttributes (757ms)
+				ProcessInitializeOnLoadMethodAttributes (8ms)
+				AfterProcessingInitializeOnLoad (4ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (11ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.22 seconds
+Refreshing native plugins compatible for Editor in 0.73 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1398 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 65.0 MB.
+System memory in use after: 65.1 MB.
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 1831.
+Total: 4.231000 ms (FindLiveObjects: 0.318300 ms CreateObjectMapping: 0.145600 ms MarkObjects: 3.489000 ms  DeleteObjects: 0.275300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Bowling Game Assets/Prefabs
+  artifactKey: Guid(9c6a8527540291941ade106791bb3014) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bowling Game Assets/Prefabs using Guid(9c6a8527540291941ade106791bb3014) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '497e5b5f411b447056ccc8d4c55c1246') in 0.019206 seconds 
+  Import took 0.026223 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000356 seconds.
+  path: Assets/Bowling Game Assets/Prefabs/Right Wall.prefab
+  artifactKey: Guid(0050d6830c139264c849bda2893af2ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bowling Game Assets/Prefabs/Right Wall.prefab using Guid(0050d6830c139264c849bda2893af2ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '339815706248c17a658ac9dcfbccbf0e') in 1.010593 seconds 
+  Import took 1.018190 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000381 seconds.
+  path: Assets/Bowling Game Assets/Prefabs/Ball.prefab
+  artifactKey: Guid(f49337a002ee14bdf85ac8b40e14046a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bowling Game Assets/Prefabs/Ball.prefab using Guid(f49337a002ee14bdf85ac8b40e14046a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c7ef116bdd663160b2e3eb1a50fc38a') in 0.035957 seconds 
+  Import took 0.042536 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000359 seconds.
+  path: Assets/Bowling Game Assets/Prefabs/Left Wall.prefab
+  artifactKey: Guid(dcab41885a8b8664b862f12bec9810cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bowling Game Assets/Prefabs/Left Wall.prefab using Guid(dcab41885a8b8664b862f12bec9810cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '052cc7dbc2f7c9680c096c61a98eec8a') in 0.035544 seconds 
+  Import took 0.043116 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000382 seconds.
+  path: Assets/Bowling Game Assets/Prefabs/Alley.prefab
+  artifactKey: Guid(ed0cbacb2577c8b488d1fd9e8e99c300) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bowling Game Assets/Prefabs/Alley.prefab using Guid(ed0cbacb2577c8b488d1fd9e8e99c300) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2de948e42cff17e92277bb7c86788ebb') in 0.063936 seconds 
+  Import took 0.079015 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000299 seconds.
+  path: Assets/Bowling Game Assets/Prefabs/Back Wall.prefab
+  artifactKey: Guid(e9f3c8a61f0c2f64eb2ff762b833d09a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bowling Game Assets/Prefabs/Back Wall.prefab using Guid(e9f3c8a61f0c2f64eb2ff762b833d09a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd69c86378d62b39ce77b895d0d0fa4e1') in 0.066724 seconds 
+  Import took 0.071629 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000345 seconds.
+  path: Assets/Bowling Game Assets
+  artifactKey: Guid(6fd576511d852e34f9d6ef431e227777) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bowling Game Assets using Guid(6fd576511d852e34f9d6ef431e227777) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca036a3d1fd7bc8d49b9ccb63250a17b') in 0.013895 seconds 
+  Import took 0.017856 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000354 seconds.
+  path: Assets/Bowling Game Assets/Prefabs/Pin.prefab
+  artifactKey: Guid(2417360552ed04caa97f6d3c74d36601) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bowling Game Assets/Prefabs/Pin.prefab using Guid(2417360552ed04caa97f6d3c74d36601) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2accd4069fbddb73642b49b62ed3ae8a') in 0.035487 seconds 
+  Import took 0.042771 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 553.703674 seconds.
+  path: Assets/Bowling Game Assets/Models/Lane.fbx
+  artifactKey: Guid(129466a83b9554948a4a274304e49e26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bowling Game Assets/Models/Lane.fbx using Guid(129466a83b9554948a4a274304e49e26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f3eed0ff1bc3b7fa20cdf23688a3288') in 0.310306 seconds 
+  Import took 0.322408 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000465 seconds.
+  path: Assets/Bowling Game Assets/Models/Pin.fbx
+  artifactKey: Guid(2232c68b9f73d364799e538a6e6b7636) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bowling Game Assets/Models/Pin.fbx using Guid(2232c68b9f73d364799e538a6e6b7636) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97b743622904bc4344018a566c42d6d3') in 0.106949 seconds 
+  Import took 0.112044 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
